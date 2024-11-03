@@ -17,4 +17,4 @@ It is with the irony that productivity apps are everywhere and, people seem to s
 ## Made with ❤️, Made with Svelte
 
 
-> You can run the app [here](https://svelte.dev/docs/kit/adapters)
+> You can run the app [here](https://stellar-pika-08ead7.netlify.app/)
